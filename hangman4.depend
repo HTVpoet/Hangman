@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1650878023 source:c:\users\admin\documents\hangman4\hangman4\hai.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	<vector>
+	<thread>
+	<chrono>
+
